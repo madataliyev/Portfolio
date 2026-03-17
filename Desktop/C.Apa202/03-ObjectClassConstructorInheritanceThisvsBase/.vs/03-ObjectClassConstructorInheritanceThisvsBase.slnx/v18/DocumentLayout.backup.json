@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Madat\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\madat\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\madat\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\madat\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\proqram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\proqram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\madat\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\madat\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E107272D-E2DA-1C49-AE82-6FA4F7C17C58}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 204,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proqram.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Proqram.cs",
+              "RelativeDocumentMoniker": "03-ObjectClassConstructorInheritanceThisvsBase\\Proqram.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Proqram.cs",
+              "RelativeToolTip": "03-ObjectClassConstructorInheritanceThisvsBase\\Proqram.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:13:42.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Administrator.cs",
+              "RelativeDocumentMoniker": "03-ObjectClassConstructorInheritanceThisvsBase\\Administrator.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Administrator.cs",
+              "RelativeToolTip": "03-ObjectClassConstructorInheritanceThisvsBase\\Administrator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T01:52:38.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Teacher.cs",
+              "RelativeDocumentMoniker": "03-ObjectClassConstructorInheritanceThisvsBase\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Teacher.cs",
+              "RelativeToolTip": "03-ObjectClassConstructorInheritanceThisvsBase\\Teacher.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T01:51:55.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs",
+              "RelativeDocumentMoniker": "03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs",
+              "RelativeToolTip": "03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T01:50:34.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Person.cs",
+              "RelativeDocumentMoniker": "03-ObjectClassConstructorInheritanceThisvsBase\\Person.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Person.cs",
+              "RelativeToolTip": "03-ObjectClassConstructorInheritanceThisvsBase\\Person.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T01:49:40.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
