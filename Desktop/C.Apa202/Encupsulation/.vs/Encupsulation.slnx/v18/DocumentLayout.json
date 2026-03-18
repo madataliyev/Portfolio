@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Madat\\Desktop\\C.Apa202\\Encupsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E01976-A4E4-4712-B6E3-AAB1F5698197}|04-AccessModifiresEncupsulationNamespace\\04-AccessModifiresEncupsulationNamespace.csproj|c:\\users\\madat\\desktop\\c.apa202\\encupsulation\\04-accessmodifiresencupsulationnamespace\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E01976-A4E4-4712-B6E3-AAB1F5698197}|04-AccessModifiresEncupsulationNamespace\\04-AccessModifiresEncupsulationNamespace.csproj|solutionrelative:04-accessmodifiresencupsulationnamespace\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E01976-A4E4-4712-B6E3-AAB1F5698197}|04-AccessModifiresEncupsulationNamespace\\04-AccessModifiresEncupsulationNamespace.csproj|c:\\users\\madat\\desktop\\c.apa202\\encupsulation\\04-accessmodifiresencupsulationnamespace\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E01976-A4E4-4712-B6E3-AAB1F5698197}|04-AccessModifiresEncupsulationNamespace\\04-AccessModifiresEncupsulationNamespace.csproj|solutionrelative:04-accessmodifiresencupsulationnamespace\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E01976-A4E4-4712-B6E3-AAB1F5698197}|04-AccessModifiresEncupsulationNamespace\\04-AccessModifiresEncupsulationNamespace.csproj|c:\\users\\madat\\desktop\\c.apa202\\encupsulation\\04-accessmodifiresencupsulationnamespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E01976-A4E4-4712-B6E3-AAB1F5698197}|04-AccessModifiresEncupsulationNamespace\\04-AccessModifiresEncupsulationNamespace.csproj|solutionrelative:04-accessmodifiresencupsulationnamespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E01976-A4E4-4712-B6E3-AAB1F5698197}|04-AccessModifiresEncupsulationNamespace\\04-AccessModifiresEncupsulationNamespace.csproj|c:\\users\\madat\\desktop\\c.apa202\\encupsulation\\04-accessmodifiresencupsulationnamespace\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E01976-A4E4-4712-B6E3-AAB1F5698197}|04-AccessModifiresEncupsulationNamespace\\04-AccessModifiresEncupsulationNamespace.csproj|solutionrelative:04-accessmodifiresencupsulationnamespace\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E01976-A4E4-4712-B6E3-AAB1F5698197}|04-AccessModifiresEncupsulationNamespace\\04-AccessModifiresEncupsulationNamespace.csproj|c:\\users\\madat\\desktop\\c.apa202\\encupsulation\\04-accessmodifiresencupsulationnamespace\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E01976-A4E4-4712-B6E3-AAB1F5698197}|04-AccessModifiresEncupsulationNamespace\\04-AccessModifiresEncupsulationNamespace.csproj|solutionrelative:04-accessmodifiresencupsulationnamespace\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67580FD-03A5-4A73-92F6-2283CCAF5780}|Domain\\Domain.csproj|c:\\users\\madat\\desktop\\c.apa202\\encupsulation\\domain\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67580FD-03A5-4A73-92F6-2283CCAF5780}|Domain\\Domain.csproj|solutionrelative:domain\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67580FD-03A5-4A73-92F6-2283CCAF5780}|Domain\\Domain.csproj|c:\\users\\madat\\desktop\\c.apa202\\encupsulation\\domain\\ndrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67580FD-03A5-4A73-92F6-2283CCAF5780}|Domain\\Domain.csproj|solutionrelative:domain\\ndrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NDrive.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\Encupsulation\\Domain\\NDrive.cs",
+              "RelativeDocumentMoniker": "Domain\\NDrive.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\Encupsulation\\Domain\\NDrive.cs",
+              "RelativeToolTip": "Domain\\NDrive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:04:13.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Work.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\Encupsulation\\Domain\\Work.cs",
+              "RelativeDocumentMoniker": "Domain\\Work.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\Encupsulation\\Domain\\Work.cs",
+              "RelativeToolTip": "Domain\\Work.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:49:43.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\Encupsulation\\04-AccessModifiresEncupsulationNamespace\\Test.cs",
+              "RelativeDocumentMoniker": "04-AccessModifiresEncupsulationNamespace\\Test.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\Encupsulation\\04-AccessModifiresEncupsulationNamespace\\Test.cs",
+              "RelativeToolTip": "04-AccessModifiresEncupsulationNamespace\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:24:36.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\Encupsulation\\04-AccessModifiresEncupsulationNamespace\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "04-AccessModifiresEncupsulationNamespace\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\Encupsulation\\04-AccessModifiresEncupsulationNamespace\\Models\\Car.cs",
+              "RelativeToolTip": "04-AccessModifiresEncupsulationNamespace\\Models\\Car.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:06:57.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\Encupsulation\\04-AccessModifiresEncupsulationNamespace\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "04-AccessModifiresEncupsulationNamespace\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\Encupsulation\\04-AccessModifiresEncupsulationNamespace\\Models\\Student.cs",
+              "RelativeToolTip": "04-AccessModifiresEncupsulationNamespace\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:06:21.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\Encupsulation\\04-AccessModifiresEncupsulationNamespace\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "04-AccessModifiresEncupsulationNamespace\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\Encupsulation\\04-AccessModifiresEncupsulationNamespace\\Models\\Person.cs",
+              "RelativeToolTip": "04-AccessModifiresEncupsulationNamespace\\Models\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:04:52.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\Encupsulation\\04-AccessModifiresEncupsulationNamespace\\Program.cs",
+              "RelativeDocumentMoniker": "04-AccessModifiresEncupsulationNamespace\\Program.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\Encupsulation\\04-AccessModifiresEncupsulationNamespace\\Program.cs",
+              "RelativeToolTip": "04-AccessModifiresEncupsulationNamespace\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:01:01.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
